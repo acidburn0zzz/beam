@@ -127,7 +127,7 @@
     <google-cloud-core.version>1.0.2</google-cloud-core.version>
     <google-cloud-dataflow-java-proto-library-all.version>0.5.160304</google-cloud-dataflow-java-proto-library-all.version>
     <guava.version>20.0</guava.version>
-    <grpc.version>1.2.0</grpc.version>
+    <grpc.version>1.53.0</grpc.version>
     <grpc-google-common-protos.version>0.1.9</grpc-google-common-protos.version>
     <!--
       This is the version of Hadoop used to compile the module that depend on Hadoop.
